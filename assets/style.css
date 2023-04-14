@@ -1,0 +1,15 @@
+/*.container-poses {
+    padding: 20px;
+}
+*/
+.row-poses {
+    padding: 10px;
+}
+
+.h2-headings{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
